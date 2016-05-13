@@ -1,1 +1,1 @@
-"# tictactoe" 
+"# tictactoe with minimax" 
